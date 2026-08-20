@@ -10,4 +10,6 @@ audit-captures/
 node_modules/
 dist/
 .cache/
+.vercel/
+**/.vercel/
 *.log

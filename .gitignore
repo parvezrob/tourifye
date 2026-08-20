@@ -1,0 +1,13 @@
+.DS_Store
+**/.DS_Store
+
+# Local presentation build and visual-audit outputs
+.deck-audit/
+.deck-build/
+audit-captures/
+
+# Local development artifacts
+node_modules/
+dist/
+.cache/
+*.log

@@ -1,0 +1,403 @@
+BANGLADESH ARRIVAL GATEWAY
+Global benchmark and Bangladesh source register
+
+Prepared: 21 August 2026
+Scope: Bangladesh current state, policy and opportunity; global benchmark and cross-cutting standards
+
+Method
+
+- Priority was given to government, intergovernmental and official industry-body sources.
+- “Fact used” records what the source can safely support.
+- Design implications are explicitly marked as interpretation rather than source fact.
+- Product rules and webpages can change. Recheck all operational details immediately before the final presentation is issued.
+- Bangladesh operational webpages, statistics and policy records are included. System status and legal interpretation still require official stakeholder and counsel validation.
+
+
+S01 — ICAO: API Guidelines and PNR Reporting Standards
+
+Issuer: International Civil Aviation Organization
+URL: https://www.icao.int/facilitation-programmes/api-guidelines-and-pnr-reporting-standards
+Accessed: 21 August 2026
+Fact used: Modern air-border control relies substantially on secure electronic data; API is produced at check-in and PNR originates in booking records; advance data enables risk-based targeted controls before arrival.
+Caveat: API/PNR are airline-to-government data streams, not the same as a traveller-completed arrival declaration.
+Confidence: High.
+
+
+S02 — WCO/IATA/ICAO: Guidelines on Advance Passenger Information (2022)
+
+Issuer: WCO, IATA and ICAO; hosted by ICAO
+URL: https://www.icao.int/Security/FAL/Documents/1.%20API%20Guidelines.EN%202022.final.pdf
+Accessed: 21 August 2026
+Fact used: ICAO Annex 9 requires a Passenger Data Single Window for required API/iAPI and/or PNR categories, using a common transmission entry point; it also addresses 24/7 support, outage recovery and standardized data.
+Design implication: A national arrival programme should align with the wider passenger-data framework and avoid creating another isolated agency silo.
+Confidence: High.
+
+
+S03 — ICAO Facilitation Manual, Chapter 9: Passenger data exchange systems
+
+Issuer: International Civil Aviation Organization
+URL: https://www.icao.int/sites/default/files/TRIP/Publications/Doc-9957-Facilitation-Manual-Chapter-9.pdf
+Accessed: 21 August 2026
+Fact used: Defines a Passenger Data Single Window and explains that it creates efficiency, avoids duplicate cost/resources and can improve collaboration among State agencies.
+Caveat: The chapter addresses standardized carrier data. It supports the integration principle but does not prove a specific outcome for a consumer arrival form.
+Confidence: High.
+
+
+S04 — OECD Privacy Principles
+
+Issuer: Organisation for Economic Co-operation and Development
+URL: https://www.oecd.org/en/topics/privacy-principles.html
+Accessed: 21 August 2026
+Fact used: Eight privacy principles: collection limitation, data quality, purpose specification, use limitation, security safeguards, openness, individual participation and accountability.
+Design implication: These principles are a suitable baseline for field-level data governance and separation of compulsory and optional uses.
+Confidence: High.
+
+
+S05 — IATA 2025 full-year passenger demand
+
+Issuer: International Air Transport Association
+Publication date: 29 January 2026
+URL: https://www.iata.org/en/pressroom/2026-releases/2026-01-29-02/
+Accessed: 21 August 2026
+Fact used: Total air passenger demand grew 5.3% in 2025 versus 2024; international demand grew 7.1%; Asia-Pacific airlines recorded 10.9% growth in international traffic and an 84.4% load factor.
+Use in deck: Establishes the scale and continued growth pressure on arrival infrastructure.
+Caveat: Demand is measured in revenue passenger kilometres, not arrival-card transactions or unique travellers.
+Confidence: High.
+
+
+S06 — IATA 2025 Global Passenger Survey
+
+Issuer: International Air Transport Association
+Publication date: 5 November 2025
+URL: https://www.iata.org/en/pressroom/2025-releases/2025-11-05-02/
+Accessed: 21 August 2026
+Fact used: Based on more than 10,000 responses from over 200 countries; 78% wanted a smartphone combining digital wallet, passport and loyalty cards for the journey; 50% had used biometrics at some airport touchpoint; 74% would share biometric information to avoid repeatedly showing travel documents; 42% of currently unwilling respondents would reconsider if privacy were assured.
+Use in deck: Supports mobile convenience and the simultaneous need to design for trust.
+Caveat: This is a preference survey, not evidence of adoption or performance for this specific platform.
+Confidence: High.
+
+
+S07 — UN Tourism: International tourism recovers pre-pandemic levels in 2024
+
+Issuer: UN Tourism
+Publication date: 21 January 2025
+URL: https://pre-webunwto.s3.eu-west-1.amazonaws.com/s3fs-public/2025-01/250121-international-tourism-recovers-pre-pandemic-levels-in-2024-en.pdf?VersionId=ovmuzZ2meG1dAr6T7LrgFky.fFxTzGcP
+Accessed: 21 August 2026
+Fact used: The January 2025 estimate was 1.4 billion international tourist arrivals in 2024, 11% above 2023 and about 99% of pre-pandemic levels.
+Caveat: UN Tourism later revisions may update the 2024 estimate. Recheck the latest Barometer before final deck publication.
+Confidence: High for the cited January 2025 release; provisional statistic.
+
+
+S08 — Thailand Digital Arrival Card guide
+
+Issuer: Thailand Immigration Bureau
+URL: https://tdac.immigration.go.th/manual/en/
+Accessed: 21 August 2026
+Fact used: Replaces the paper arrival card for non-Thai nationals entering by land, air or sea; submission within three days; collects passport/personal, travel, accommodation and conditional health information; supports group submission, MRZ scan/upload, email/download and pre-travel updates.
+Confidence: High. The page identified itself as guide version 1.18 for application version 2026.08.00 at access time.
+
+
+S09 — Singapore: Visiting Singapore / SG Arrival Card
+
+Issuer: Immigration & Checkpoints Authority, Government of Singapore
+URLs:
+https://www.ica.gov.sg/public-education/visiting-singapore
+https://www.ica.gov.sg/enter-transit-depart/entering-singapore/sg-arrival-card
+Accessed: 21 August 2026
+Fact used: Personal/trip/health information is submitted electronically within three days; the service is free and available by web/MyICA app; the app can save profiles; the electronic health declaration supports disease control and can be updated; foreign visitors receive a digital Visit Pass by email.
+Confidence: High.
+
+
+S10 — New Zealand Traveller Declaration: main service page
+
+Issuer: New Zealand Government / New Zealand Border Agencies
+URL: https://www.travellerdeclaration.govt.nz/
+Accessed: 21 August 2026
+Fact used: Collects travel, customs, immigration and biosecurity information; mandatory for everyone arriving; free; web/app; linked to passport and checked at eGate or by a border officer; supports multiple question languages.
+Confidence: High.
+
+
+S11 — New Zealand Traveller Declaration: privacy policy
+
+Issuer: New Zealand Government / New Zealand Border Agencies
+URL: https://www.travellerdeclaration.govt.nz/privacy/
+Accessed: 21 August 2026
+Fact used: States legal/statutory agency roles and collection purposes; permits advance risk analysis and targeted arrival information; describes sharing with Statistics New Zealand and health authorities; addresses hosting, retention, security, paper forms, secure-device assistance and rights of access/correction.
+Design implication: Best benchmark found for explaining governed cross-agency use without using vague “big data” language.
+Confidence: High. Page last updated 5 September 2025.
+
+
+S12 — New Zealand Traveller Declaration: border agencies collecting information
+
+Issuer: New Zealand Government / New Zealand Border Agencies
+URL: https://www.travellerdeclaration.govt.nz/privacy/border-agencies-collecting-information/
+Accessed: 21 August 2026
+Fact used: Maps individual declaration fields to Customs, Immigration, Primary Industries, Statistics New Zealand and Health.
+Design implication: Every proposed field should have an owner, purpose and approved recipients before it enters the mandatory declaration.
+Confidence: High.
+
+
+S13 — Malaysia Digital Arrival Card eGate eligibility
+
+Issuer: Immigration Department of Malaysia
+URL: https://imigresen-online.imi.gov.my/mdac/egate
+Accessed: 21 August 2026
+Fact used: Eligible foreign travellers need an e-passport and an MDAC submitted three days before arrival to use eligible eGate services.
+Caveat: Eligibility varies by nationality/status and may change. This source supports the connection between declaration and operational benefit, not universal eGate access.
+Confidence: High.
+
+
+S14 — Philippines eTravel FAQ
+
+Issuer: Philippine government eTravel / Bureau of Customs domain
+URL: https://customs.etravel.gov.ph/frequently-asked-questions
+Accessed: 21 August 2026
+Fact used: Official service is free, web-based and mobile-responsive; registration within 72 hours; health declaration and QR routing; express/manual processing; editing before arrival processing; warns against fraudulent paid sites.
+Caveat: Some FAQ text still describes pandemic-era rules and should not be cited as current entry policy. Use only the system-design and governance examples verified on the page.
+Confidence: Medium-high with the stated caveat.
+
+
+S15 — Japan Customs: electronic customs declaration
+
+Issuer: Customs and Tariff Bureau, Ministry of Finance, Japan
+URL: https://www.customs.go.jp/english/passenger/declaration/declaration_app.html
+Accessed: 21 August 2026
+Fact used: Visit Japan Web creates a unified 2D code for immigration and customs; electronic declaration gates are available at seven international airports; paper customs forms remain accepted.
+Confidence: High.
+
+
+S16 — Japan Customs: integrated kiosks
+
+Issuer: Customs and Tariff Bureau, Ministry of Finance, Japan
+URL: https://www.customs.go.jp/english/passenger/Pilot_kiosk.htm
+Accessed: 21 August 2026
+Fact used: Integrated kiosks at listed airports simultaneously collect passport, facial/biometric and declaration information for immigration and customs to remove duplication and reduce total time; wheelchair use is supported; kiosk facial images are stated to be deleted immediately after gate passage.
+Use in concept: Validates the kiosk idea as an integrated operational touchpoint, not simply a public computer.
+Confidence: High.
+
+
+S17 — Visit Japan Web
+
+Issuer: Digital Agency, Government of Japan
+URL: https://www.digital.go.jp/en/policies/visit_japan_web
+Accessed: 21 August 2026
+Fact used: Describes one online service for immigration, customs and tax-free shopping procedures.
+Design implication: Post-entry visitor services can connect to an official travel identity while remaining distinct from border decisioning.
+Confidence: High. Page last updated 16 July 2024.
+
+
+S18 — Indonesia: All Indonesia integrated passenger declaration
+
+Issuer: Directorate General of Immigration, Republic of Indonesia
+URLs:
+https://www.batam.imigrasi.go.id/category/berita-utama/arrival-passengers-at-three-international-airports-and-ports-in-batam-are-required-to-declare-their-arrival-through-the-all-indonesia-application
+https://www.imigrasi.go.id/?lang=en
+Accessed: 21 August 2026
+Fact used: Integrates immigration, customs, health and quarantine into one digital declaration; supports web/app, individual/group use and one QR result; passengers can submit up to three days before arrival; a 1 October 2025 nationwide mandatory date is stated on the central immigration site.
+Use in deck: Strongest recent regional proof of a multi-agency “one declaration” direction.
+Confidence: High.
+
+
+S19 — Cambodia e-Arrival: integrated functions and rollout
+
+Issuer: Ministry of Interior, Kingdom of Cambodia
+URLs:
+https://www.interior.gov.kh/en/news/GxijNIhUblDt
+https://www.interior.gov.kh/en/news/5N2ipCsBAK2i
+Accessed: 21 August 2026
+Fact used: Combines immigration card/visa-on-arrival application, customs declaration and health declaration; described as reducing manual form filling; 2024 airport rollout and planned expansion were reported.
+Confidence: High for the reported 2024 programme status; recheck current national coverage before final deck.
+
+
+S20 — Cambodia e-Arrival: early access and language/channel evidence
+
+Issuer: Ministry of Interior, Kingdom of Cambodia
+Publication date: 30 September 2024
+URL: https://www.interior.gov.kh/en/news/pgoON6M4jWiE
+Accessed: 21 August 2026
+Fact used: Ministry reported more than 420,000 public accesses by 30 September 2024, including the trial period; more than 200,000 app downloads; availability seven days before travel, in seven languages, via app and website.
+Caveat: Public access is not the same as completed declarations, border clearances or unique users.
+Confidence: High for the ministry-reported figures; metric definition is limited.
+
+
+S21 — UN digital inclusion
+
+Issuer: United Nations Office for Digital and Emerging Technologies
+URL: https://www.un.org/digital-emerging-technologies/content/digital-inclusion
+Accessed: 21 August 2026
+Fact used: Digital divides disproportionately affect people with disabilities, older people, rural populations and people on the move, among other groups.
+Design implication: Assisted, accessible and fallback channels are part of equitable public-service design.
+Confidence: High.
+
+
+S22 — Bangladesh Immigration: E-Arrival Card
+
+Issuer: Bangladesh Immigration, Special Branch, Ministry of Home Affairs
+URL: https://edcard.specialbranch.gov.bd/foreigner/register
+Accessed: 21 August 2026
+Fact used: The official E-Arrival Card is live and collects identity/passport, origin, purpose, arrival date/flight, intended hotel/address, local contact/email, visa, stay-duration and group-member information; the service links to E-Departure and Visa on Arrival.
+Strategic implication: Tourifye must propose evolution and coordination of an existing national service—not claim that Bangladesh still needs its first digital arrival card.
+Caveat: The public form shows the traveller-facing fields. It does not establish back-end integrations, adoption, legal bases, service levels or agency access.
+Confidence: High for the public service and fields; unknown for internal operation.
+
+
+S23 — Bangladesh Immigration: On-Arrival/Transit Visa portal and institutional mandate
+
+Issuers: Bangladesh Immigration, Special Branch; Hazrat Shahjalal International Airport
+URLs:
+https://voa.specialbranch.gov.bd/login
+https://www.hsia.gov.bd/bn/content-details/19/Bangladesh-Immigration-Police
+Accessed: 21 August 2026
+Fact used: Special Branch provides an online application portal for On-Arrival/Transit Visa; the airport describes Immigration Police responsibilities including border control, visa management and inter-agency cooperation.
+Design implication: The proposed gateway should coordinate with the existing immigration service family and statutory owner.
+Confidence: High.
+
+
+S24 — CAAB and HSIA: passenger forms and arrival guidance
+
+Issuers: Civil Aviation Authority of Bangladesh; Hazrat Shahjalal International Airport
+URLs:
+https://ops.caab.gov.bd/group-menu-content/8/143
+https://hsia.gov.bd/bn/faq-us
+Accessed: 21 August 2026
+Fact used: CAAB's public passenger-information page presents multiple separate arrival/departure, visa/transit, health and baggage-declaration forms or links; the HSIA FAQ states that foreign passport holders complete an immigration card while Bangladesh passport holders do not.
+Caveat: Some underlying CAAB form materials show older update dates. This supports a finding about fragmented public information, not a claim that every listed form is currently mandatory for every traveller.
+Confidence: High for what the pages display; medium for current operational applicability.
+
+
+S25 — National Board of Revenue: Customs Strategic Plan 2024–2028
+
+Issuer: National Board of Revenue, Bangladesh Customs
+URL: https://nbr.gov.bd/uploads/publications/CSP_2024-28_Final_Version.pdf
+Accessed: 21 August 2026
+Fact used: Key Area 8.4 calls for an online passenger customs-declaration module, online currency declaration integrated with Bangladesh Bank, Customs access to the API/PNR system developed by CAAB and stronger joint government controls, with stated implementation targets across 2025–2027.
+Strategic implication: The arrival-gateway concept aligns with a published Customs modernization direction and should seek coordinated implementation rather than introduce a competing customs workflow.
+Caveat: A strategy and target date do not prove implementation. No official public confirmation of every milestone was found in this research pass.
+Confidence: High for the plan; unknown for current completion status.
+
+
+S26 — Bangladesh Customs: current passenger/baggage declaration references
+
+Issuers: Hazrat Shahjalal International Airport; Custom House Dhaka; National Board of Revenue
+URLs:
+https://www.hsia.gov.bd/content-details/10/Customs
+https://www.dch.gov.bd/web_site/declaration.aspx
+https://nbr.gov.bd/uploads/acts/Customs_Act_23_English.pdf
+Accessed: 21 August 2026
+Fact used: HSIA describes passenger declaration forms in the customs process; Dhaka Custom House lists a Baggage Declaration Form dated 15 October 2025; section 154 of the Customs Act 2023 requires arriving passengers to make the prescribed baggage declaration.
+Caveat: The legal form and channel applicable to a specific passenger must be confirmed with Customs; these sources do not establish a universal paper-only workflow.
+Confidence: High.
+
+
+S27 — Bangladesh Tourism Board: foreign tourist arrivals 1995–2024
+
+Issuer: Bangladesh Tourism Board
+Landing page: https://tourismboard.gov.bd/site/page/f588526d-bc9d-4d6c-bd20-d0e4748a6abb/%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%9F%E0%A6%95-%E0%A6%86%E0%A6%97%E0%A6%AE%E0%A6%A8-%E0%A6%B8%E0%A6%82%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE
+Direct table: https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-tourismboard/2024/12/7743fd741c2c412a9ea1ac263d6f11b5.pdf
+Accessed: 21 August 2026
+Fact used: The official table reports foreign tourist arrivals of 621,131 in 2019, 655,451 in 2023 and 660,000 in 2024. The 2024 result is approximately 0.7% above 2023 and 6.3% above 2019. The table attributes 2010–2024 data to Special Branch and 1995–2009 data to the World Bank Databank.
+Caveat: Foreign tourist arrivals are not the same as all international passenger journeys, foreign entries or declarations. The 2024 value appears rounded and should be presented as published.
+Confidence: High.
+
+
+S28 — Bangladesh tourism measurement resources
+
+Issuers: Bangladesh Bureau of Statistics; Bangladesh Tourism Board
+URLs:
+https://nsds.bbs.gov.bd/en/topic/57/Tourism
+https://tourismboard.gov.bd/pages/static-pages/6922de9c933eb65569e1c012
+Accessed: 21 August 2026
+Fact used: BBS lists the Tourism Satellite Account 2020, published in 2021; the Tourism Board maintains a Bangladesh Tourism Data Inventory page whose public content was last updated in 2023.
+Design implication: The gateway can be positioned as a potential source of more timely aggregate visitor signals, complementing—not replacing—official statistics.
+Confidence: High for publication status; any claim about statistical gaps requires stakeholder validation.
+
+
+S29 — JICA: Dhaka airport passenger scale and expansion
+
+Issuer: Japan International Cooperation Agency
+Publication date: 24 December 2023
+URL: https://www.jica.go.jp/english/information/press/2023/20231224_31.html
+Accessed: 21 August 2026
+Fact used: JICA reported 7.92 million international passengers at Dhaka airport in 2022, approaching the existing terminal capacity of 8 million passengers per year; the expansion is intended to improve capacity, convenience and safety.
+Caveat: The figure is for 2022 international passengers, not 2024 foreign tourists or unique foreign arrivals.
+Confidence: High.
+
+
+S30 — CAAB, HSIA and MoCAT: Third Terminal capacity and current-status caution
+
+Issuers: Civil Aviation Authority of Bangladesh; Hazrat Shahjalal International Airport; Ministry of Civil Aviation and Tourism
+URLs:
+https://caab.gov.bd/pages/static-pages/6922df69933eb65569e21d24
+https://www.hsia.gov.bd/bn/content-details/4/Future-Expansion
+https://hsia.gov.bd/bn/content-details/3/Development-Works
+https://mocat.gov.bd/pages/press-releases/%E0%A6%B9%E0%A6%AF%E0%A6%B0%E0%A6%A4-%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A6%9C%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A7%83%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B2-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%A8%E0%A6%BE-%E0%A6%93-%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A3%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A3-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A7%88%E0%A6%A0%E0%A6%95-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BF%E0%A6%A4-0n0ey8-69cfb8a183b3473cbf02aa97
+Accessed: 21 August 2026
+Fact used: CAAB/HSIA state that the Third Terminal is intended to raise annual passenger-handling capacity from 8 million to 20 million. HSIA's development page describes construction/infrastructure work as ongoing, while MoCAT reported an operations-and-maintenance meeting on 3 April 2026.
+Caveat: Public pages contain earlier anticipated operating dates. Reconfirm current operational status before every external presentation.
+Confidence: High for planned capacity; medium for current status because public pages are not fully synchronized.
+
+
+S31 — Bangladesh 2025–2026 data and cybersecurity ordinances
+
+Issuer: Legislative and Parliamentary Affairs Division, Government of Bangladesh
+URLs:
+https://legislativediv.gov.bd/pages/static-pages/694032c335ce18e1c0561ff1
+https://legislativediv.gov.bd/pages/static-pages/69594f4247dfb83f7508ace1
+Accessed: 21 August 2026
+Fact used: The official ordinance lists record the Cyber Security Ordinance 2025, National Data Management Ordinance 2025 and Personal Data Protection Ordinance 2025, plus a Personal Data Protection amendment ordinance gazetted on 5 February 2026.
+Caveat: The list establishes enactment and dates, not a legal interpretation. Bangladeshi counsel must review operative provisions and intended data flows before design or procurement commitments.
+Confidence: High for enactment records.
+
+
+S32 — Bangladesh National Digital Architecture and e-Service Bus
+
+Issuer: Bangladesh Computer Council
+URLs:
+https://nda.bcc.gov.bd/page/serviceBus.jsp
+https://nda.bcc.gov.bd/page/service-detail.jsp?name=service-bus
+https://nea.bcc.gov.bd/standards/standard-single.jsp?standard=NA%3D%3D
+Accessed: 21 August 2026
+Fact used: BNDA describes the National e-Service Bus as government middleware for interoperable, reusable and secure online services/data exchange. Its published e-GIF standards include WCO Data Model, REST/JSON, ISO country/date conventions, government-network security, National Data Center consideration and secured inter-ministry exchange through the e-Service Bus.
+Design implication: A Bangladesh arrival gateway should be framed as compatible with and subject to the existing government architecture, not as a parallel proprietary stack.
+Confidence: High for published architecture and standards; implementation fit requires BCC validation.
+
+
+S33 — Ministry of Civil Aviation and Tourism: National Tourism Policy publication
+
+Issuer: Ministry of Civil Aviation and Tourism
+URL: https://mocat.gov.bd/pages/policies/%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%9F%E0%A6%A8-%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%A6-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AA-%E0%A6%B8%E0%A6%82%E0%A6%B6%E0%A7%8B%E0%A6%A7%E0%A6%A8-2b8b10-69403138c4774958d7b41be9
+Publication date: 22 April 2025
+Accessed: 21 August 2026
+Fact used: The Ministry publishes “National Tourism Policy 2010 and 2024 (Amendment)” as the current tourism-policy record.
+Caveat: Specific policy priorities and targets should not be inferred from the listing alone; review the attached policy files and validate with the responsible ministry before quoting them.
+Confidence: High for publication status.
+
+
+S34 — HSIA: free help desk and Wi-Fi services
+
+Issuer: Hazrat Shahjalal International Airport
+URLs:
+https://www.hsia.gov.bd/bn/our-services/free-help-desk-service-31
+https://www.hsia.gov.bd/bn/our-services/free-wi-fi-facility-49
+Accessed: 21 August 2026
+Fact used: HSIA publicly lists free help-desk and Wi-Fi services.
+Design implication: Existing service channels could support assisted digital-arrival completion and traveller guidance in a pilot, subject to operational assessment.
+Confidence: High.
+
+
+SOURCE USE RULES FOR THE PRESENTATION
+
+1. Cite the issuing body and year in the slide footnote and retain the direct URL in speaker notes.
+2. Never turn a qualitative purpose statement such as “reduce time” into an invented percentage.
+3. Distinguish traveller counts, tourist arrivals, passenger journeys, RPK demand and declaration transactions.
+4. Label Cambodia's number as public accesses, not completed declarations.
+5. Label UN Tourism's January 2025 figure as the cited estimate and refresh it before publication.
+6. Treat source-reported benefits as evidence of intent unless an audited outcome measure is available.
+7. Do not imply that API/PNR and a traveller declaration are interchangeable.
+8. Recheck all operational rules, submission windows and coverage before final delivery.
+9. Bangladesh law and local statistics must be sourced from official bodies and legally reviewed where interpretation is required.
+10. Separate source facts from our strategic recommendations in both slide text and speaker notes.
+11. Do not describe Tourifye as replacing or owning the existing E-Arrival Card; describe an integration, evolution or coordinated-service proposal.
+12. Treat NBR milestone dates as plans unless completion is independently confirmed by the responsible authority.
+13. Never compare the 660,000 foreign-tourist-arrival series directly with the 7.92 million international-passenger figure without explaining the different year and population.
+14. Reverify Third Terminal operating status immediately before publication.

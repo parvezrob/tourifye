@@ -1,0 +1,620 @@
+BANGLADESH ARRIVAL GATEWAY
+Global benchmark and Bangladesh opportunity brief
+
+Status: Confidential working note — not a public presentation
+Prepared: 21 August 2026
+Geographic scope: Bangladesh, informed by global benchmarks
+Audience in view: Government decision-makers first, investors second
+Proposing organization: Tourifye
+
+
+1. DECISION QUESTION
+
+How can a government turn the mandatory arrival declaration from a one-time border form into trusted national visitor infrastructure—improving clearance, public safety, cross-agency coordination, tourism planning and the visitor experience—without creating surveillance, privacy or commercial-conflict concerns?
+
+
+2. EXECUTIVE SYNTHESIS
+
+The central idea is credible, timely and already validated at category level. Thailand, Singapore, Malaysia, the Philippines, Japan, Indonesia, Cambodia and New Zealand all operate digital arrival or traveller-declaration systems. The strongest systems are moving beyond a digital copy of a paper form:
+
+- Indonesia combines immigration, customs, health and quarantine declarations in one system.
+- New Zealand combines travel, customs, immigration and biosecurity information, links the declaration to the passport and documents which agencies use which fields.
+- Japan combines immigration and customs procedures through one 2D code and integrated airport kiosks.
+- Thailand combines identity, travel, accommodation and conditional health information and permits updates before travel.
+- Singapore combines arrival and health declarations and uses the same email channel for the visitor's digital visit pass.
+
+The opportunity is therefore not “inventing a digital arrival card.” That category already exists. The opportunity is designing a better national operating model around it: one trusted arrival gateway, an inter-agency data and decision layer, assisted access, emergency communication, and a consent-based visitor-services layer.
+
+The deal will be won or lost on trust and execution, not on a list of interface features. Government buyers will care about legal authority, agency ownership, interoperability, security, availability, inclusion, measurable operational outcomes and control of national data. Investors will care about repeatability, recurring operating revenue, defensibility and expansion across countries or adjacent government services.
+
+The mandatory declaration must remain free and free of advertising. Tourism content, hotel offers and commercial communication should appear only after the official submission is complete, should be clearly separated from government decisions, and should require meaningful consent where personalisation or direct messaging is involved. Personal arrival data should not be sold. Commercial and policy value should come from service contracts, platform operations, approved partner participation and aggregated or properly de-identified insights.
+
+
+3. BANGLADESH-SPECIFIC FINDING: BUILD ON WHAT EXISTS
+
+The decisive local finding is that Bangladesh already operates an official E-Arrival Card under Bangladesh Immigration, Special Branch, Ministry of Home Affairs. The live service collects identity and passport details, origin and arrival information, purpose of visit, flight, intended hotel/address, local contact/email, visa details, stay duration and group-member information. It links to separate E-Departure and Visa on Arrival services.
+
+This changes the pitch. Tourifye should not present a proposal to “digitize Bangladesh's arrival card.” That claim is already obsolete. The credible opportunity is to help government move from a digital card to a coordinated national arrival gateway—integrating authorized workflows, improving the traveller experience, supporting assisted access and converting governed arrival signals into operational and tourism insight.
+
+Recommended public framing:
+
+Bangladesh already has important digital building blocks. The next step is to connect and elevate them into one trusted arrival experience.
+
+Recommended working title:
+
+Bangladesh Arrival Gateway
+From digital card to coordinated national visitor infrastructure
+Presented by Tourifye
+
+Tourifye's role should be described as a strategic delivery and operating partner. Sovereign data, legal authority and border decisions remain with Government. The presentation should not imply that Tourifye owns the national traveller record or replaces any statutory agency.
+
+
+4. BANGLADESH CURRENT-STATE EVIDENCE
+
+Existing digital building blocks
+
+- Bangladesh Immigration operates an E-Arrival Card and linked E-Departure service.
+- Special Branch operates an online application portal for On-Arrival/Transit Visa.
+- Immigration Police already works within a Ministry of Home Affairs mandate covering border control, visa management and inter-agency coordination.
+- The Bangladesh National Digital Architecture provides an existing government interoperability direction through its National e-Service Bus, standards and National Data Center.
+
+Public evidence of a still-fragmented arrival journey
+
+- The Civil Aviation Authority's passenger-information page still presents multiple separate forms and links, including arrival, departure, visa/transit, health and baggage declaration materials. Some underlying materials are older, so this is evidence of the public information landscape—not proof that every listed form remains mandatory in every case.
+- Hazrat Shahjalal International Airport's public FAQ states that foreign passport holders complete an immigration card, while Bangladesh passport holders do not.
+- Airport customs information and Dhaka Custom House continue to reference passenger/baggage declaration forms.
+- NBR's Customs Strategic Plan 2024–2028 explicitly calls for an online passenger customs-declaration module, online currency declaration integrated with Bangladesh Bank, Customs access to CAAB's API/PNR system and stronger joint government controls. The plan establishes strategic direction; public completion of every milestone should not be assumed.
+
+The resulting opportunity is not one database replacing all agencies. It is a governed service layer that lets travellers declare once where policy permits, routes approved information to authorized systems, and preserves each agency's statutory control.
+
+
+5. BANGLADESH SCALE, TIMING AND TOURISM BASELINE
+
+Airport scale and timing
+
+- JICA reported that international passengers at Dhaka airport reached 7.92 million in 2022, close to the existing terminal capacity of 8 million passengers per year.
+- CAAB and airport sources state that the Third Terminal programme is intended to increase annual passenger-handling capacity from 8 million to 20 million.
+- Public official sources in 2026 indicate that construction or operational preparations were still under way, while some airport pages continue to display earlier anticipated dates. Current status must therefore be refreshed immediately before the presentation.
+
+This creates a strategic window: physical expansion can be paired with a better digital arrival operating model. The deck should not claim that Terminal 3 is already operational unless the status is reverified.
+
+Tourism baseline
+
+- Bangladesh Tourism Board's official foreign-tourist-arrival series reports 660,000 arrivals in 2024, compared with 655,451 in 2023 and 621,131 in 2019.
+- That is approximately 0.7% growth over 2023 and 6.3% above 2019.
+- The Tourism Board table states that its 2010–2024 figures are sourced from Special Branch; its 1995–2009 figures are sourced from the World Bank Databank.
+- Bangladesh Bureau of Statistics publishes a Tourism Satellite Account for 2020, while the Tourism Board's public data inventory page was last updated in 2023. These are useful official resources but also show why more timely, granular and governed visitor insight could improve planning.
+
+Important metric distinction: “foreign tourist arrivals” are not the same as all international passenger journeys, all foreign arrivals or all declarations. The 660,000 and 7.92 million figures must never be placed in a chart as if they measure the same population or year.
+
+
+6. BANGLADESH POLICY AND TRUST FRAME
+
+Digital-government alignment
+
+Bangladesh does not need a new interoperability philosophy invented for this proposal. The Bangladesh National Digital Architecture already describes a whole-of-government approach, a National e-Service Bus for secure inter-ministry data exchange, reuse of government services and standards including REST/JSON, WCO data-model use, ISO country/date conventions, government-network security and National Data Center consideration.
+
+The concept should therefore be presented as compatible with existing government architecture and subject to technical validation by BCC/ICT authorities—not as a proprietary parallel government stack.
+
+Data protection and cybersecurity
+
+Official legislative records show that Bangladesh enacted the Cyber Security Ordinance 2025, National Data Management Ordinance 2025 and Personal Data Protection Ordinance 2025, followed by a Personal Data Protection amendment ordinance in February 2026.
+
+The public deck may safely say that the programme must be designed and legally assessed under Bangladesh's current data-management, personal-data-protection and cybersecurity framework. It should not make detailed legal claims about consent, localization, retention or government exemptions until Bangladeshi counsel reviews the operative texts and the intended data flows.
+
+Tourism-policy alignment
+
+The Ministry of Civil Aviation and Tourism published “National Tourism Policy 2010 and 2024 (Amendment)” in April 2025. The final presentation should link the gateway to the policy's verified priorities only after the underlying files have been reviewed with a tourism-policy stakeholder or adviser; the publication itself establishes current policy relevance but is not enough to infer specific targets.
+
+
+7. REVISED BANGLADESH VALUE PROPOSITION
+
+For travellers
+
+- One trusted starting point before arrival.
+- Less uncertainty about which official forms and instructions apply.
+- Assisted kiosk/help-desk route for travellers who cannot complete digitally.
+- A verified post-submission welcome layer with emergency, tourist-police, transport and destination information.
+
+For authorized government agencies
+
+- Better reuse of approved information and fewer unnecessary duplicate questions.
+- Earlier access to relevant declarations and more reliable handoffs.
+- Field-level purpose, ownership, access and retention rules.
+- Operational dashboards using only the data each agency is authorized to see.
+
+For tourism policy
+
+- More timely aggregate views of source market, purpose, planned stay and intended destination.
+- Better regional-demand, service and campaign planning.
+- A trusted channel for destination guidance after the mandatory process is complete.
+
+For national resilience
+
+- An existing channel that can activate health or emergency questions when policy requires.
+- Targeted official information to lawfully defined traveller groups.
+- Accommodation/contact information used only for declared purposes and limited periods—not continuous tracking.
+
+For Tourifye
+
+- A government implementation and managed-service opportunity.
+- A repeatable governance, integration, service-design and operational model.
+- Optional future visitor-service modules, subject to policy approval, consent and clear separation from border decisions.
+
+
+8. GOVERNMENT-SAFE OWNERSHIP AND STAKEHOLDER MODEL
+
+Because the initial audience is generic, the deck should not assume that one ministry is the sole buyer. Present a cross-government programme with a designated public sponsor and named statutory data owners.
+
+Potential stakeholders to validate:
+
+- Ministry of Home Affairs, Special Branch and Immigration Police.
+- Ministry of Civil Aviation and Tourism.
+- Civil Aviation Authority of Bangladesh and international-airport management.
+- National Board of Revenue and relevant Customs Houses.
+- Bangladesh Tourism Board.
+- Airport health and the responsible health authorities.
+- Plant and animal quarantine authorities.
+- ICT Division, Bangladesh Computer Council and data-governance authorities.
+- Tourist Police and other emergency-information providers.
+- Bangladesh Bureau of Statistics.
+- Airlines, airport service providers and approved tourism-industry representatives.
+
+Recommended governance language:
+
+- Government owns policy, statutory decisions and sovereign data.
+- Each agency remains accountable for its legal function.
+- A cross-government steering structure approves shared fields, purposes and operating rules.
+- Tourifye designs, integrates, operates and improves the service under contract and oversight.
+- No agency receives a blanket entitlement to all data.
+
+
+9. BANGLADESH PILOT THESIS
+
+The first proposal should be a discovery-and-pilot partnership, not a nationwide replacement promise.
+
+Suggested scope:
+
+- One international arrival entry point, with Hazrat Shahjalal International Airport as a logical candidate subject to government selection.
+- A defined foreign-arrival cohort.
+- Integration or coordinated handoff with the existing E-Arrival Card—not a competing declaration.
+- One additional workflow with clear public value, such as customs declaration readiness, verified post-arrival information or assisted completion.
+- Existing free help desks, Wi-Fi and airport service channels considered in the assisted-access design.
+- No hotel advertising or traveller-data monetization in the pilot.
+- Independent baseline, privacy/security review and jointly agreed success measures before target setting.
+
+First decision requested from government:
+
+Authorize a short cross-agency discovery to map the current journey, data authority, systems and baseline, then define a controlled pilot with one accountable sponsor.
+
+
+10. RECOMMENDED HIGH-LEVEL POSITIONING
+
+Working category name:
+National Visitor Arrival & Intelligence Platform
+
+Possible public-facing descriptions:
+
+- A single national gateway for safer, simpler arrivals.
+- One declaration. Coordinated government. A better welcome.
+- From border form to visitor infrastructure.
+
+Public promise:
+
+Declare once, arrive prepared, receive trusted help, and give authorized agencies the information they need to act earlier and coordinate better.
+
+What the public pitch should communicate:
+
+- National outcome, not screen-by-screen product mechanics.
+- One coordinated service, not several disconnected forms.
+- Better decisions from governed data, not “monetising traveller data.”
+- Inclusion and continuity, not mobile-only dependence.
+- A partnership and operating model, not software procurement alone.
+
+
+11. WHAT THE GLOBAL BENCHMARK PROVES
+
+THAILAND — Thailand Digital Arrival Card (TDAC)
+
+Coverage: Non-Thai nationals arriving by air, land or sea.
+Window: Within three days before arrival.
+What is collected: Passport/personal, travel, accommodation and conditional health information.
+Relevant capabilities: Individual and group submission; machine-readable-zone scan/upload; email/download; permitted updates before travel.
+Strategic lesson: Accommodation and recent-travel/health data are accepted parts of a modern arrival declaration when their purpose is clear.
+
+SINGAPORE — SG Arrival Card
+
+Coverage: Most arriving travellers, with stated exemptions.
+Window: Within three days, including arrival day.
+What is collected: Arrival information and electronic health declaration.
+Relevant capabilities: Web and mobile channels; profile saving in the app; update of health status; acknowledgment by email; the visitor's electronic Visit Pass is also sent digitally.
+Strategic lesson: The official arrival channel can become a trusted communication channel, but it remains a government service rather than an advertising surface.
+
+NEW ZEALAND — New Zealand Traveller Declaration
+
+Coverage: Everyone arriving, including New Zealand passport holders, by air or sea.
+Window: Generally from 24 hours before starting the journey, with specific air/sea rules.
+What is collected: Travel, customs, immigration and biosecurity information; passport-linked and checked at an eGate or by an officer.
+Relevant capabilities: Web/app, multiple question languages, paper forms and secure-device assistance in some circumstances, advance risk assessment, targeted arrival information, explicit field-to-agency mapping.
+Strategic lesson: This is the strongest governance benchmark. Every data field should have an authorized user, legal purpose, access rule and retention treatment.
+
+MALAYSIA — Malaysia Digital Arrival Card
+
+Coverage: Applicable foreign travellers, with exceptions and eligibility rules.
+Window: Three days before arrival.
+Relevant capability: Submission is connected to eGate eligibility for eligible e-passport holders.
+Strategic lesson: The declaration becomes more valuable when connected to a visible operational benefit rather than treated as a standalone form.
+
+PHILIPPINES — eTravel
+
+Coverage: International travel use under government rules.
+Window: Within 72 hours before arrival or departure.
+What is demonstrated: Mobile-responsive web service; health-declaration integration; QR-based routing; express and manual processing paths; edits before arrival processing.
+Strategic lesson: A declaration can support risk-based triage and public-health response. It also demonstrates the need for strong anti-scam communication because lookalike paid services emerge around free government forms.
+
+JAPAN — Visit Japan Web and integrated kiosks
+
+Coverage: Online immigration and customs procedures, with electronic declaration gates at major airports and paper customs fallback.
+Relevant capabilities: Unified 2D code for immigration and customs; integrated kiosks collect passport information, facial image/fingerprints where applicable and declaration information for both processes; wheelchair access is documented.
+Strategic lesson: Kiosks are not merely form-filling booths. Properly integrated, they remove duplicated capture and connect the digital declaration to physical airport processing.
+
+INDONESIA — All Indonesia
+
+Coverage: Mandatory for international passengers from 1 October 2025; web and app channels.
+Window: Up to three days before arrival and at arrival.
+What is integrated: Immigration, customs, health and quarantine in one declaration and one QR result.
+Relevant public value: Earlier health-risk detection, quarantine reporting and removal of a separate electronic customs declaration at enabled entry points.
+Strategic lesson: “One arrival, one declaration” is a current regional direction, not a speculative concept.
+
+CAMBODIA — Cambodia e-Arrival
+
+Coverage: Airport rollout began in 2024 with expansion described by the Ministry of Interior.
+Window/channels: Seven days before travel; website and app; seven languages reported.
+What is integrated: Immigration arrival/departure card, visa-on-arrival application, customs declaration and health declaration.
+Adoption evidence: Cambodia's Ministry of Interior reported more than 420,000 public accesses by 30 September 2024, including the trial period, and more than 200,000 app downloads.
+Strategic lesson: A smaller regional market can implement a multi-agency service and achieve meaningful early adoption.
+
+
+12. THE OPPORTUNITY BEYOND THE FORM
+
+The research supports a five-layer public-value model. These are conceptual layers, not a disclosure of the product architecture.
+
+Layer 1 — Trusted arrival gateway
+
+- Identity and travel declaration.
+- Origin, route, purpose and destination/accommodation information where authorized.
+- One clear confirmation linked to the traveller and arrival event.
+- Digital self-service plus assisted kiosk and resilient fallback.
+
+Layer 2 — Coordinated government decisioning
+
+- Authorized information reaches immigration, customs, health, quarantine, statistics or tourism bodies according to law and role.
+- Earlier triage and fewer duplicate questions.
+- Exception cases are directed to staff; routine cases can move through faster channels.
+
+Layer 3 — Safety and resilience
+
+- Trusted emergency numbers, police/tourist-police information, health guidance and entry-specific instructions.
+- Targeted alerts to affected traveller cohorts during a health, weather, security or transport event when legally permitted.
+- Time-limited accommodation/contact information can support response, but should not become indefinite location tracking.
+
+Layer 4 — Tourism intelligence
+
+- Aggregated views of source markets, trip purpose, length of stay, intended destination and regional dispersal.
+- Arrival forecasts for staffing, transport and destination planning.
+- Measurement of campaigns and visitor segments without exposing identifiable traveller records.
+
+Layer 5 — Consent-based visitor services
+
+- A post-submission welcome experience with official guides, destination information and verified services.
+- Optional notification to a host, receiver or travel coordinator, initiated or authorized by the traveller.
+- Optional destination news, itineraries or offers based on explicit preference.
+- Verified hotel or tourism-partner placements, clearly labelled and separated from mandatory government processing.
+
+
+13. ASSESSMENT OF THE ORIGINAL FEATURE IDEAS
+
+“From where the person came / where they are going”
+
+Keep. It supports border, health, transport and tourism use cases. Avoid asking for fields already reliably available from airline API/PNR unless the declaration needs confirmation, correction or information not present in carrier data.
+
+“Send email/news to the receiver”
+
+Refine. Call this an Authorized Arrival Notification. The traveller chooses the recipient and message type. No automatic disclosure of travel or immigration status to a third party. Tourism news should be a separate opt-in.
+
+“Update which hotel / where staying”
+
+Keep with limits. Pre-arrival accommodation is already collected in Thailand and New Zealand. A post-arrival update could support emergency response or contact obligations, but needs a clear legal basis, limited retention and an explicit distinction from continuous tracking.
+
+“Promote tourism”
+
+Keep as a national outcome. The strongest story is destination dispersal, trusted guidance and better visitor information—not advertising inside a compulsory form.
+
+“Hotels publish ads”
+
+Reframe as a Verified Visitor Services Programme. Place it after the official process. Use transparent eligibility, labelling and procurement/commercial rules. Never allow payment to affect border processing, risk decisions or prominence of official safety information.
+
+“Guides, emergency, security/police information”
+
+Keep and elevate. This is a low-risk, high-trust feature family and helps reposition the service from compliance burden to national welcome channel.
+
+“Digital form-fill booth/kiosk”
+
+Keep. Research from Japan shows that an integrated kiosk can remove duplicate capture across immigration and customs. The operating plan should also account for low digital literacy, disability, language needs, no device, low battery, poor connectivity and travellers completing declarations for family members.
+
+“The data is most important; show how it is used”
+
+Keep, but change the language. The public value comes from governed use, not maximum collection. The presentation should show a data-to-decision chain:
+
+arrival signals -> authorized agency decisions -> operational/public outcomes -> aggregated policy insight
+
+
+14. DATA VALUE LADDER
+
+Level A — Transaction and service quality
+
+- Volume by entry point and time.
+- Completion before arrival.
+- Form abandonment, error and correction rates.
+- Assisted-service demand and language/accessibility needs.
+
+Level B — Border operations
+
+- Arrival-load forecasting and staffing.
+- Routine-versus-exception routing.
+- Cross-agency handoff time and duplicate-data reduction.
+- Data quality and declaration compliance.
+
+Level C — Health, biosecurity and national resilience
+
+- Recent travel and health declarations when activated by policy.
+- Quarantine/biosecurity declarations.
+- Rapid communication to lawfully defined affected cohorts.
+- Audit of who accessed which information and why.
+
+Level D — Tourism and economic planning
+
+- Source market, visit purpose, planned stay and destination distribution.
+- Seasonal and regional demand patterns.
+- Aggregated visitor segments for campaign planning.
+- Measurement of whether tourism is being dispersed beyond primary destinations.
+
+Level E — Consented visitor engagement
+
+- Opt-in rates for official news and safety alerts.
+- Engagement with destination guidance.
+- Use of verified visitor services.
+- Campaign performance at aggregated level.
+
+Non-negotiable line: identifiable mandatory-arrival data is not a product for sale.
+
+
+15. TRUST, PRIVACY AND SECURITY REQUIREMENTS
+
+The OECD privacy principles provide a suitable baseline: collection limitation, data quality, purpose specification, use limitation, security safeguards, openness, individual participation and accountability.
+
+Minimum government-ready commitments:
+
+- State ownership or control of sovereign data and clearly defined operator obligations.
+- A legal purpose and authorized agency for every mandatory field.
+- Separation of mandatory processing from optional tourism/commercial consent.
+- Data minimisation: do not recollect reliable information without a defined need.
+- Role-based access, logging, audit and independent oversight.
+- Published retention and deletion rules by data class.
+- Rights and processes for access and correction where applicable.
+- Encryption, secure hosting, incident response, vulnerability management and tested business continuity.
+- No sale of personal traveller records and no use of arrival data for unrelated advertising.
+- Aggregation/de-identification standards for tourism analytics, including small-cell suppression and re-identification controls.
+- Clear rules for cross-border processing and service providers.
+- Paper/assisted fallback and 24/7 operational support appropriate to border infrastructure.
+
+New Zealand is a useful model because it explains statutory purposes, maps fields to agencies, states sharing and retention arrangements, and provides access/correction routes. Japan provides a concrete data-minimisation example by stating that kiosk facial images are deleted immediately after gate passage.
+
+
+16. STANDARDS AND INTEROPERABILITY
+
+ICAO states that modern border control relies heavily on secure electronic passenger data and distinguishes airline-supplied Advance Passenger Information (API) from Passenger Name Record (PNR) data. ICAO Annex 9 also establishes the Passenger Data Single Window principle for standardized carrier data, with one entry point for regulatory requirements.
+
+Important nuance: an airline passenger-data single window is not the same thing as a traveller-completed arrival declaration. The presentation should claim compatibility and coordinated design, not pretend that the declaration replaces API/PNR.
+
+High-level interoperability requirements to discuss without exposing architecture:
+
+- Alignment with machine-readable travel-document and passenger-data standards.
+- Reuse/verification of trusted data where law permits.
+- Standardized interfaces to authorized agency systems.
+- One authoritative transaction/reference across the arrival event.
+- Clear system-of-record responsibilities.
+- Continuity procedures when airline, government, airport or network systems are unavailable.
+
+
+17. INCLUSION AND SERVICE CONTINUITY
+
+A mobile-first service is appropriate, but a mobile-only public service is not.
+
+Required service channels:
+
+- Responsive web experience with no mandatory app download.
+- Optional app where repeat use or stored profile delivers value.
+- Accessible airport/port kiosks and staff-assisted mode.
+- Ability for an authorized person to complete a declaration for a child, older traveller or group.
+- Multilingual instructions and accessible design.
+- Offline proof/download or print option after submission.
+- Paper or controlled manual fallback for outage and exceptional circumstances.
+
+Japan documents wheelchair-accessible integrated kiosks and a paper customs fallback. New Zealand documents paper forms and secure-device assistance in some arrival contexts. These are evidence that inclusion and continuity belong in the core operating model.
+
+
+18. COMMERCIAL MODEL — SAFE OPTIONS
+
+Primary commercial model:
+
+- Government implementation contract.
+- Managed-service or annual platform-operations fee.
+- Integration, support, training, change-management and analytics services.
+- Optional modules purchased by authorized agencies.
+
+Secondary model, only after policy approval:
+
+- Participation fees for verified tourism businesses.
+- Clearly labelled post-submission placements or offers.
+- Campaign-management services for tourism authorities.
+- Transaction/lead fees only where legal, transparent and separated from official decisions.
+
+Models to avoid:
+
+- Selling identifiable traveller data.
+- Ads inside the mandatory declaration.
+- Unconsented marketing email or messages.
+- Pay-to-prioritize any government, safety or border outcome.
+- A revenue forecast based on every arrival being an advertising impression.
+
+
+19. WHY A GOVERNMENT SHOULD PARTNER INSTEAD OF COPY
+
+Do not try to protect the concept by hiding that digital arrival cards exist. Governments can already see those systems. Protect the valuable work product and partnership model.
+
+Defensibility should be presented at a high level as:
+
+- Cross-agency governance and implementation method.
+- Reusable integration and operating capability.
+- Security, privacy and service-continuity controls.
+- Deployment playbook, training and adoption model.
+- Measurement framework and continuous improvement.
+- Regional/localization capability.
+- Trusted visitor-services ecosystem governed separately from border decisions.
+
+Public deck: show the problem, evidence, national outcomes, principles, partnership model and pilot decision.
+
+Confidential appendix under NDA: show proprietary workflows, integration approach, commercial assumptions, implementation sequence and detailed operating model.
+
+Controlled technical workshop: disclose architecture, data mappings, security controls, delivery resources and detailed requirements only to qualified stakeholders.
+
+
+20. EXPECTED OBJECTIONS AND RESPONSE DIRECTIONS
+
+“We already receive API/PNR from airlines.”
+
+Response: carrier data and traveller declarations serve different purposes. The concept should reduce duplicate capture, validate or supplement information and coordinate it through the national border framework.
+
+“This creates a privacy or surveillance risk.”
+
+Response: agree that unmanaged collection would be unacceptable. Lead with purpose-by-field, separation of mandatory and optional uses, limited retention, access logging, de-identification and oversight.
+
+“Advertising will damage the credibility of an immigration service.”
+
+Response: agree. Keep the compulsory process ad-free. If government chooses, use a separate post-submission visitor-services programme with explicit labelling and consent.
+
+“Some travellers have no smartphone or internet.”
+
+Response: web, kiosk, assisted and fallback channels are part of the service model, not an afterthought.
+
+“This requires too many agencies to agree.”
+
+Response: governance is the core programme. Begin with an executive sponsor, named data owners, a cross-agency steering structure and a limited pilot scope.
+
+“What is the return?”
+
+Response: establish a baseline first. Measure administrative duplication, pre-arrival completion, handling time, exception rate, staff effort, traveller satisfaction, agency data latency and tourism-insight availability. Do not promise unsupported queue-time or revenue reductions.
+
+“Why should we choose you?”
+
+Response: demonstrate delivery capability, governance design, local partnership, security posture, measurable pilot method and the ability to operate the service continuously—not merely a UI concept.
+
+
+21. PILOT THESIS AND MEASUREMENT
+
+Suggested pilot framing:
+
+- One high-volume airport or seaport.
+- A defined inbound cohort and limited number of participating agencies.
+- Digital pre-arrival declaration plus an assisted kiosk/fallback path.
+- One or two operational integrations that produce a visible public-service benefit.
+- No commercial advertising in the pilot.
+- Optional emergency/tourism information only after successful submission.
+
+Baseline before setting targets:
+
+- Current forms and duplicate fields by agency.
+- Current median and 90th-percentile completion/handling time.
+- Current correction and incomplete-form rates.
+- Current staff effort and queue contribution.
+- Current timing/quality of data received by each agency.
+- Current traveller satisfaction and accessibility barriers.
+
+Pilot success measures:
+
+- Percentage completed before arrival.
+- Median declaration completion time.
+- Error, correction and abandonment rates.
+- Assisted-channel and fallback usage.
+- Reduction in duplicate questions/forms.
+- Declaration-to-agency data latency.
+- Routine-versus-exception processing rate.
+- Availability, recovery time and support response.
+- Accessibility completion and satisfaction.
+- Privacy/security incidents and unauthorized-access events.
+- Opt-in and engagement for official visitor information, reported separately.
+
+Clear caveat: total immigration or baggage-hall time is influenced by airlines, airport capacity, eGates, staffing and baggage delivery. Attribute only the improvements the platform can actually control or measure.
+
+
+22. PRESENTATION NARRATIVE — BANGLADESH DRAFT
+
+1. Bangladesh is expanding the physical gateway to the country.
+2. The digital gateway can evolve with it.
+3. Bangladesh already has an official E-Arrival Card and other digital building blocks.
+4. The remaining opportunity is coordination: fewer fragmented touchpoints and better governed handoffs.
+5. Regional peers show the direction—one arrival experience connecting multiple official functions.
+6. Bangladesh Arrival Gateway: from digital card to coordinated visitor infrastructure.
+7. Declare once where policy permits; route only approved information to authorized agencies.
+8. Welcome better with verified safety, emergency and destination guidance after submission.
+9. Decide better with aggregated, governed tourism and operational insight.
+10. Build on BNDA, sovereign control, Bangladesh law, assisted access and an ad-free compulsory journey.
+11. Start with a cross-agency discovery and measured pilot.
+12. Tourifye proposes a partnership to design, integrate, operate and continuously improve the service.
+
+This sequence reveals the national value proposition without exposing detailed product flows or architecture.
+
+
+23. VALIDATION GAPS BEFORE DECK AUTHORING
+
+The global and Bangladesh public-source cases are established. The remaining gaps require stakeholder validation, legal review or current operational data.
+
+Must validate before presenting quantified benefits or a final implementation route:
+
+- Primary government buyer/sponsor: immigration, civil aviation/airport authority, tourism, home affairs, customs, health, digital government or prime minister/cabinet office.
+- First presentation audience: government, investor or a joint room.
+- Desired deal: feasibility study, pilot, PPP/concession, procurement, investment or strategic mandate.
+- Target entry point and current arrival volume by traveller type.
+- Current production status, ownership, architecture and adoption of E-Arrival, E-Departure and VOA services.
+- Current completion status of NBR's online passenger/currency declaration and CAAB API/PNR integration milestones.
+- Current Terminal 3 operational date and passenger-processing design.
+- Current forms, duplicate fields, processing times, errors, staffing and queue contribution by agency.
+- Detailed legal review of the 2025–2026 data-management, personal-data-protection and cybersecurity ordinances, plus applicable immigration, customs, procurement and records rules.
+- Data-hosting, security-classification, retention and cross-agency access requirements.
+- Current tourism priorities, source-market mix, seasonality, destination dispersal and measurement gaps.
+- Known decision-makers, budget cycle and procurement route.
+- Tourifye's delivery credentials, local partners, security posture, staffing and commercial readiness.
+
+Discovery should produce:
+
+- A verified “current state” map.
+- A field-level authority, purpose, system-of-record and access matrix.
+- Quantified operational and tourism baseline.
+- Agency and stakeholder map.
+- Legal/privacy/security requirements and threat model.
+- Gap-versus-global-benchmark analysis.
+- Conservative public-value and pilot business case.
+- Agreed pilot scope, owner, success measures and procurement route.
+- Separate government and investor presentation variants where needed.
+
+
+24. WORKING CONCLUSION
+
+The strongest concept for Bangladesh is not another form and not a tourism advertising app. It is a governed arrival gateway that builds on the existing E-Arrival Card, coordinates approved parts of the first visitor interaction and converts authorized arrival signals into better service, safer decisions and more useful aggregate tourism intelligence.
+
+That framing is broad enough to protect implementation details, concrete enough for a government audience, respectful of current public systems, and commercially credible if the mandatory public service, optional visitor engagement and underlying data governance remain clearly separated. The near-term deal is a sponsored discovery and pilot, not a promise to replace national systems.
+
+
+Source details and direct links are maintained in:
+arrival-platform-source-register.txt

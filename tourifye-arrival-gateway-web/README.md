@@ -27,3 +27,7 @@ The deck also supports on-screen controls and horizontal swipe gestures.
 - `assets/`: Tourifye logos, custom imagery and locally hosted fonts
 
 All research links appear in the per-slide Evidence drawer. Operational details should be rechecked before an external presentation.
+
+## Deployment
+
+The GitHub repository is connected to Vercel with this folder configured as the project root. Pushes to `main` create production deployments, while other branches create preview deployments.

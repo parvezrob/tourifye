@@ -31,3 +31,5 @@ All research links appear in the per-slide Evidence drawer. Operational details 
 ## Deployment
 
 The GitHub repository is connected to Vercel with this folder configured as the project root. Pushes to `main` create production deployments, while other branches create preview deployments.
+
+Production: https://tourifye.vercel.app
